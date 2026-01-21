@@ -1,0 +1,96 @@
+name: Central Changelog
+
+on:
+  repository_dispatch:
+    types: [update_request]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-specific-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Central Repo
+        uses: actions/checkout@v4
+
+      # 1. Identify which repo triggered this run
+      - name: Identify Source
+        id: meta
+        run: |
+          # If triggered automatically, use the payload. If manual, default to a fallback (or fail gracefully)
+          SOURCE="${{ github.event.client_payload.source_repo }}"
+          
+          if [ -z "$SOURCE" ]; then
+            echo "Error: No source repo provided in payload."
+            exit 1
+          fi
+          
+          echo "Targeting Source Repo: $SOURCE"
+          echo "source_repo=$SOURCE" >> $GITHUB_OUTPUT
+          
+          # Create a clean filename (replace slashes with underscores)
+          # Example: ohmlaws/repo-a -> ohmlaws_repo-a
+          CLEAN_NAME=$(echo "$SOURCE" | tr '/' '_')
+          echo "clean_name=$CLEAN_NAME" >> $GITHUB_OUTPUT
+
+      # 2. Checkout the SOURCE Repo into a temp folder
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ steps.meta.outputs.source_repo }}
+          path: source_code
+          fetch-depth: 0
+
+      # 3. Generate the Log
+      - name: Generate Changelog
+        run: |
+          mkdir -p docs
+          SOURCE_REPO="${{ steps.meta.outputs.source_repo }}"
+          CLEAN_NAME="${{ steps.meta.outputs.clean_name }}"
+          REPO_URL="https://github.com/$SOURCE_REPO"
+          OUTPUT_FILE="docs/CHANGELOG_${CLEAN_NAME}.md"
+          
+          echo "Generating log for $SOURCE_REPO into $OUTPUT_FILE"
+          
+          # --- HEADER ---
+          cat <<EOF > $OUTPUT_FILE
+          # Changelog: $SOURCE_REPO
+
+          Updates for [$SOURCE_REPO]($REPO_URL).
+          
+          Last Updated: $(TZ='Asia/Kolkata' date +'%Y-%m-%d')
+          EOF
+          # --- END HEADER ---
+
+          cd source_code
+          git log --date=short --no-merges --pretty=format:"%ad|%s|%h|%H" > ../raw_commits.txt
+          cd ..
+          
+          current_date=""
+          
+          while IFS='|' read -r date msg short_hash long_hash; do
+             # Skip bot messages
+             if [[ "$msg" == *"docs: update changelog"* ]]; then continue; fi
+
+             if [ "$date" != "$current_date" ]; then
+               echo "" >> $OUTPUT_FILE
+               echo "## $date" >> $OUTPUT_FILE
+               current_date="$date"
+             fi
+             echo "- $msg ([$short_hash]($REPO_URL/commit/$long_hash))" >> $OUTPUT_FILE
+          done < raw_commits.txt
+          
+          # Add Pull Request Links
+          sed -i -E "s|#([0-9]+)|[#\1]($REPO_URL/pull/\1)|g" $OUTPUT_FILE
+          
+          rm raw_commits.txt
+          rm -rf source_code
+
+      # 4. Save the file
+      - name: Commit & Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: update changelog for ${{ steps.meta.outputs.source_repo }}"
+          file_pattern: docs/*.md
