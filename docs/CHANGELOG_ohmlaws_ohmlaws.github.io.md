@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/ohmlaws.github.io](https://github.com/ohmlaws/ohmlaws.github.io).
 
-Last Updated: 2026-01-21
+Last Updated: 2026-01-22
+
+## 2026-01-22
+- Add changelog section to README ([ef3d525](https://github.com/ohmlaws/ohmlaws.github.io/commit/ef3d525547f021a48990df146dc0a049db9a46bc))
 
 ## 2026-01-21
 - Delete docs/CHANGELOG.md ([bb7f546](https://github.com/ohmlaws/ohmlaws.github.io/commit/bb7f54688a3db6165941068d98f72ced121bb646))
