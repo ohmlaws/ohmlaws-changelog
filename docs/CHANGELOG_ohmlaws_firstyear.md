@@ -5,6 +5,7 @@ Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 Last Updated: 2026-01-21
 
 ## 2026-01-21
+- Update changelog link to point to GitHub ([284a266](https://github.com/ohmlaws/firstyear/commit/284a266ccfad6d7f6e5e466c5a699fef1d05a1dc))
 - Add Changelog section to README ([c6b4016](https://github.com/ohmlaws/firstyear/commit/c6b4016a6df98fc7192afda76f33462fdf0c3634))
 - Add workflow to trigger changelog updates ([36e6f74](https://github.com/ohmlaws/firstyear/commit/36e6f74405828d0d1b89bc9e683157babe7f4705))
 
