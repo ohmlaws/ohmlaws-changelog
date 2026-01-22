@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-01-21
+Last Updated: 2026-01-22
+
+## 2026-01-22
+- Revise content correction issue template ([6be59fa](https://github.com/ohmlaws/secondyear/commit/6be59fac414cbbdb56b80674ccfeba5c3b519724))
 
 ## 2026-01-21
 - Add Changelog section to README ([b017f5d](https://github.com/ohmlaws/secondyear/commit/b017f5d01c24521b4bdc5229e452cd1cdd839b2c))
