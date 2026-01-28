@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 
-Last Updated: 2026-01-21
+Last Updated: 2026-01-28
+
+## 2026-01-28
+- Fix: Spellings mistake & words, remove extra style tag ([#11](https://github.com/ohmlaws/firstyear/pull/11)) ([9cc7ffe](https://github.com/ohmlaws/firstyear/commit/9cc7ffe88e9504201fcd3048ccea23f9267d5578))
 
 ## 2026-01-21
 - Update changelog link to point to GitHub ([284a266](https://github.com/ohmlaws/firstyear/commit/284a266ccfad6d7f6e5e466c5a699fef1d05a1dc))
