@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-01-23
+Last Updated: 2026-02-15
+
+## 2026-02-15
+- Fix: space of various pages ([#14](https://github.com/ohmlaws/secondyear/pull/14)) ([f0b0f43](https://github.com/ohmlaws/secondyear/commit/f0b0f437793113c1ead6dfce9f93c09480ed0604))
 
 ## 2026-01-23
 - Fix: Calculation format  ([#13](https://github.com/ohmlaws/secondyear/pull/13)) ([31f843f](https://github.com/ohmlaws/secondyear/commit/31f843fe6383ddaa86e8f752bca076cc74d88b1d))
