@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/ohmlaws.github.io](https://github.com/ohmlaws/ohmlaws.github.io).
 
-Last Updated: 2026-01-22
+Last Updated: 2026-02-18
+
+## 2026-02-18
+- Tutorial changes ([#15](https://github.com/ohmlaws/ohmlaws.github.io/pull/15)) ([aff07a2](https://github.com/ohmlaws/ohmlaws.github.io/commit/aff07a20f30fda18735abfb01dcc1f4411313767))
 
 ## 2026-01-22
 - Add changelog section to README ([ef3d525](https://github.com/ohmlaws/ohmlaws.github.io/commit/ef3d525547f021a48990df146dc0a049db9a46bc))
