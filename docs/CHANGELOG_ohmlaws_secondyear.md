@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-02-15
+Last Updated: 2026-02-24
+
+## 2026-02-24
+- Fix: Mathjax formatting  ([#16](https://github.com/ohmlaws/secondyear/pull/16)) ([68714e2](https://github.com/ohmlaws/secondyear/commit/68714e28b5953535f1d93afd1f380bba2c208033))
 
 ## 2026-02-15
 - Fix: space of various pages ([#14](https://github.com/ohmlaws/secondyear/pull/14)) ([f0b0f43](https://github.com/ohmlaws/secondyear/commit/f0b0f437793113c1ead6dfce9f93c09480ed0604))
