@@ -2,7 +2,11 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-03-12
+Last Updated: 2026-05-19
+
+## 2026-05-19
+- Rename 2025-05-15-synchronous-motor.html to 2025-05-15-synchronous-motor-and-mg-set.md ([2d4a1bf](https://github.com/ohmlaws/secondyear/commit/2d4a1bf551ab852332ad9f0e9c3f470379f41c3d))
+- Update and rename 2025-05-15-synchronous-motor.md to 2025-05-15-synchronous-motor.html ([8311fc4](https://github.com/ohmlaws/secondyear/commit/8311fc4fcdbce0c1043d90ca5b13bebc6326ec64))
 
 ## 2026-03-12
 - Fix answers correct option ([#17](https://github.com/ohmlaws/secondyear/pull/17)) ([c91dfe7](https://github.com/ohmlaws/secondyear/commit/c91dfe77e492b9cb0a3eaaa135ece505dbb3c313))
