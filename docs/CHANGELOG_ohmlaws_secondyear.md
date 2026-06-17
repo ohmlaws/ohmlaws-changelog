@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-05-22
+Last Updated: 2026-06-17
+
+## 2026-06-17
+- Add Second Year Suggestions post ([#21](https://github.com/ohmlaws/secondyear/pull/21)) ([2faee22](https://github.com/ohmlaws/secondyear/commit/2faee22fadda4ea6393f2482ede78705ec397a89))
 
 ## 2026-05-22
 - Fix quiz options for gig economy question ([#20](https://github.com/ohmlaws/secondyear/pull/20)) ([cdcfff7](https://github.com/ohmlaws/secondyear/commit/cdcfff7671e94d445de06d9011e6fd7c9e562978))
