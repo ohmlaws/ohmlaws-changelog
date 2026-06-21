@@ -5,6 +5,7 @@ Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 Last Updated: 2026-06-21
 
 ## 2026-06-21
+- Modify site.webmanifest ([d345d37](https://github.com/ohmlaws/secondyear/commit/d345d3795d0001a3aba542e7dc1273036c66ee62))
 - fix: re-upload suggestion pdf with some changes ([7c7dbd4](https://github.com/ohmlaws/secondyear/commit/7c7dbd4d59459de3bed6d3ec1e0094070f251d9d))
 
 ## 2026-06-17
