@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-06-17
+Last Updated: 2026-06-21
+
+## 2026-06-21
+- fix: re-upload suggestion pdf with some changes ([7c7dbd4](https://github.com/ohmlaws/secondyear/commit/7c7dbd4d59459de3bed6d3ec1e0094070f251d9d))
 
 ## 2026-06-17
 - Add Second Year Suggestions post ([#21](https://github.com/ohmlaws/secondyear/pull/21)) ([2faee22](https://github.com/ohmlaws/secondyear/commit/2faee22fadda4ea6393f2482ede78705ec397a89))
