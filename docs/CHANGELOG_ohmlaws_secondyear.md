@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-06-21
+Last Updated: 2026-06-24
+
+## 2026-06-24
+- Add engineering drawing page ([#22](https://github.com/ohmlaws/secondyear/pull/22)) ([6e6bc80](https://github.com/ohmlaws/secondyear/commit/6e6bc80503989b140d6a74d2091576e321450501))
 
 ## 2026-06-21
 - Modify site.webmanifest ([d345d37](https://github.com/ohmlaws/secondyear/commit/d345d3795d0001a3aba542e7dc1273036c66ee62))
