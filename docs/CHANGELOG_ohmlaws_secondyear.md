@@ -5,6 +5,7 @@ Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 Last Updated: 2026-06-24
 
 ## 2026-06-24
+- Add image link to engg.md post ([97b9a90](https://github.com/ohmlaws/secondyear/commit/97b9a90b281b5714b5e993baa41181c937926840))
 - Remove image URL in engg.md ([85fe507](https://github.com/ohmlaws/secondyear/commit/85fe50749ecb7f118145f94cde8e2f4ac391360c))
 - Add engineering drawing page ([#22](https://github.com/ohmlaws/secondyear/pull/22)) ([6e6bc80](https://github.com/ohmlaws/secondyear/commit/6e6bc80503989b140d6a74d2091576e321450501))
 
