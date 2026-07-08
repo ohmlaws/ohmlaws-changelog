@@ -5,6 +5,7 @@ Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 Last Updated: 2026-07-08
 
 ## 2026-07-08
+- fix margin-bottom span ([6c4c0ec](https://github.com/ohmlaws/firstyear/commit/6c4c0ecb1edd6d7c384ec45f8e997c9f8d61cb17))
 - Add margin after each post name ([e80d5f5](https://github.com/ohmlaws/firstyear/commit/e80d5f5428d1e2d5ac1085428b65e058582e2615))
 - Remove date from category post list ([7972aac](https://github.com/ohmlaws/firstyear/commit/7972aac2eebaab9cd575b48c3c4650e4d5066d43))
 - Hide calendar icon and date in further area ([cb01243](https://github.com/ohmlaws/firstyear/commit/cb012435eaafef92126914ba50af2566239fc82d))
