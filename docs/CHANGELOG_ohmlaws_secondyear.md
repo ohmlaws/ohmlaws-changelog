@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-06-24
+Last Updated: 2026-07-08
+
+## 2026-07-08
+- fix theme toggle button ([#24](https://github.com/ohmlaws/secondyear/pull/24)) ([303fd13](https://github.com/ohmlaws/secondyear/commit/303fd13f56d86a1ce101e5ec6a1bdc98bfcf38f3))
 
 ## 2026-06-24
 - Add image link to engg.md post ([97b9a90](https://github.com/ohmlaws/secondyear/commit/97b9a90b281b5714b5e993baa41181c937926840))
