@@ -5,6 +5,7 @@ Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 Last Updated: 2026-07-08
 
 ## 2026-07-08
+- Add margin after each post name ([e80d5f5](https://github.com/ohmlaws/firstyear/commit/e80d5f5428d1e2d5ac1085428b65e058582e2615))
 - Remove date from category post list ([7972aac](https://github.com/ohmlaws/firstyear/commit/7972aac2eebaab9cd575b48c3c4650e4d5066d43))
 - Hide calendar icon and date in further area ([cb01243](https://github.com/ohmlaws/firstyear/commit/cb012435eaafef92126914ba50af2566239fc82d))
 - Hide dates in post metadata ([dd2d7c8](https://github.com/ohmlaws/firstyear/commit/dd2d7c8fc8ad4ff1198b5044a4ab5f0740bb9125))
