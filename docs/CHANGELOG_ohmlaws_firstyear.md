@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 
-Last Updated: 2026-06-21
+Last Updated: 2026-07-08
+
+## 2026-07-08
+- fix theme toggle button  ([#13](https://github.com/ohmlaws/firstyear/pull/13)) ([3ef7019](https://github.com/ohmlaws/firstyear/commit/3ef7019fd9dc1c467876aea90c4ddd80e7656ba7))
 
 ## 2026-06-21
 - Update site.webmanifest ([bbd8d04](https://github.com/ohmlaws/firstyear/commit/bbd8d04525ffcf180b95ce35931ea7924012444d))
