@@ -5,6 +5,7 @@ Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 Last Updated: 2026-07-08
 
 ## 2026-07-08
+- Hide dates in post metadata ([dd2d7c8](https://github.com/ohmlaws/firstyear/commit/dd2d7c8fc8ad4ff1198b5044a4ab5f0740bb9125))
 - fix theme toggle button  ([#13](https://github.com/ohmlaws/firstyear/pull/13)) ([3ef7019](https://github.com/ohmlaws/firstyear/commit/3ef7019fd9dc1c467876aea90c4ddd80e7656ba7))
 
 ## 2026-06-21
