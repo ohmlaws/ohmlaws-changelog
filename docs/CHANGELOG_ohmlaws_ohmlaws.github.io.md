@@ -5,6 +5,7 @@ Updates for [ohmlaws/ohmlaws.github.io](https://github.com/ohmlaws/ohmlaws.githu
 Last Updated: 2026-07-08
 
 ## 2026-07-08
+- fix theme toggle button ([#22](https://github.com/ohmlaws/ohmlaws.github.io/pull/22)) ([aab8869](https://github.com/ohmlaws/ohmlaws.github.io/commit/aab886912520eb8f42ff5072be4d696a6c93c99a))
 - Update jekyll-theme-chirpy.scss ([53ec677](https://github.com/ohmlaws/ohmlaws.github.io/commit/53ec67732271c6f360a2ee2006cd631be398cf26))
 
 ## 2026-03-29
