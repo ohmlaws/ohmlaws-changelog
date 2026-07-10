@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/ohmlaws.github.io](https://github.com/ohmlaws/ohmlaws.github.io).
 
-Last Updated: 2026-07-08
+Last Updated: 2026-07-10
+
+## 2026-07-10
+- Hide dates and calendar icons in post metadata ([f34359e](https://github.com/ohmlaws/ohmlaws.github.io/commit/f34359e3e3b5638062f5b45884ab0626f3608b27))
 
 ## 2026-07-08
 - fix theme toggle button ([#22](https://github.com/ohmlaws/ohmlaws.github.io/pull/22)) ([aab8869](https://github.com/ohmlaws/ohmlaws.github.io/commit/aab886912520eb8f42ff5072be4d696a6c93c99a))
