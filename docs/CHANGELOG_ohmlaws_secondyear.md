@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-07-08
+Last Updated: 2026-07-10
+
+## 2026-07-10
+- Hide dates and calendar icons in post metadata ([8cd5d00](https://github.com/ohmlaws/secondyear/commit/8cd5d002bf509c3e914efafe7c77a8fb50e096f4))
 
 ## 2026-07-08
 - fix theme toggle button ([#24](https://github.com/ohmlaws/secondyear/pull/24)) ([303fd13](https://github.com/ohmlaws/secondyear/commit/303fd13f56d86a1ce101e5ec6a1bdc98bfcf38f3))
