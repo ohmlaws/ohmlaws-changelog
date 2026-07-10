@@ -5,6 +5,7 @@ Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 Last Updated: 2026-07-10
 
 ## 2026-07-10
+- hide date in pages by catagory section ([a0add8a](https://github.com/ohmlaws/secondyear/commit/a0add8aa243aed80b0bf73ed3069d29a5796d6a8))
 - Hide dates and calendar icons in post metadata ([8cd5d00](https://github.com/ohmlaws/secondyear/commit/8cd5d002bf509c3e914efafe7c77a8fb50e096f4))
 
 ## 2026-07-08
