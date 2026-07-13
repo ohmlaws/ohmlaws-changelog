@@ -5,6 +5,7 @@ Updates for [ohmlaws/ohmlaws.github.io](https://github.com/ohmlaws/ohmlaws.githu
 Last Updated: 2026-07-13
 
 ## 2026-07-13
+- improve Search results  ([#24](https://github.com/ohmlaws/ohmlaws.github.io/pull/24)) ([e613cab](https://github.com/ohmlaws/ohmlaws.github.io/commit/e613cab95b27b3ccc7f7f465f915cd80c657bf53))
 - remove margin-left for post meta icons ([#23](https://github.com/ohmlaws/ohmlaws.github.io/pull/23)) ([018e25c](https://github.com/ohmlaws/ohmlaws.github.io/commit/018e25c6cc77961e7e8c978a18520a5fe456fa00))
 
 ## 2026-07-10
