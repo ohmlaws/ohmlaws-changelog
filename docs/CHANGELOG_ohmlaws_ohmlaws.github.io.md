@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/ohmlaws.github.io](https://github.com/ohmlaws/ohmlaws.github.io).
 
-Last Updated: 2026-07-10
+Last Updated: 2026-07-13
+
+## 2026-07-13
+- remove margin-left for post meta icons ([#23](https://github.com/ohmlaws/ohmlaws.github.io/pull/23)) ([018e25c](https://github.com/ohmlaws/ohmlaws.github.io/commit/018e25c6cc77961e7e8c978a18520a5fe456fa00))
 
 ## 2026-07-10
 - Hide dates and calendar icons in post metadata ([f34359e](https://github.com/ohmlaws/ohmlaws.github.io/commit/f34359e3e3b5638062f5b45884ab0626f3608b27))
