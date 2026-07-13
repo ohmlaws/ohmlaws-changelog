@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 
-Last Updated: 2026-07-08
+Last Updated: 2026-07-13
+
+## 2026-07-13
+- improve search loader ([#14](https://github.com/ohmlaws/firstyear/pull/14)) ([4070a37](https://github.com/ohmlaws/firstyear/commit/4070a37ebead109d2979489c23844f7015d65fba))
 
 ## 2026-07-08
 - fix margin-bottom span ([6c4c0ec](https://github.com/ohmlaws/firstyear/commit/6c4c0ecb1edd6d7c384ec45f8e997c9f8d61cb17))
