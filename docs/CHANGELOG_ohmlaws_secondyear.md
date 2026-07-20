@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-07-10
+Last Updated: 2026-07-20
+
+## 2026-07-20
+- Fix question answer ([#25](https://github.com/ohmlaws/secondyear/pull/25)) ([65de0ac](https://github.com/ohmlaws/secondyear/commit/65de0ac7455d6fe2631c45ebc0a593cade7e77f6))
 
 ## 2026-07-10
 - hide date in pages by catagory section ([a0add8a](https://github.com/ohmlaws/secondyear/commit/a0add8aa243aed80b0bf73ed3069d29a5796d6a8))
