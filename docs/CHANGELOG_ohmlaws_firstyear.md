@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 
-Last Updated: 2026-07-13
+Last Updated: 2026-07-21
+
+## 2026-07-21
+- feat: improve search loader and search highlight  ([#15](https://github.com/ohmlaws/firstyear/pull/15)) ([c138e1a](https://github.com/ohmlaws/firstyear/commit/c138e1a0baf8b439e63b0c7404d073ad88381d33))
 
 ## 2026-07-13
 - improve search loader ([#14](https://github.com/ohmlaws/firstyear/pull/14)) ([4070a37](https://github.com/ohmlaws/firstyear/commit/4070a37ebead109d2979489c23844f7015d65fba))
