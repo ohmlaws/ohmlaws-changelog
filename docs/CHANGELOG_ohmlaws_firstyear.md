@@ -5,6 +5,7 @@ Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 Last Updated: 2026-07-22
 
 ## 2026-07-22
+- fix: search functionality UI ([#18](https://github.com/ohmlaws/firstyear/pull/18)) ([80ca6c3](https://github.com/ohmlaws/firstyear/commit/80ca6c362eb584f4f05d39164cd7c40a6375136f))
 - feat: search functionality with phrase matching ([#17](https://github.com/ohmlaws/firstyear/pull/17)) ([bb90c92](https://github.com/ohmlaws/firstyear/commit/bb90c9232d222c5a02d262d4e0923b2fa863aa91))
 
 ## 2026-07-21
