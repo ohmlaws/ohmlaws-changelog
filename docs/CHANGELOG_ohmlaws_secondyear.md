@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-07-20
+Last Updated: 2026-07-22
+
+## 2026-07-22
+- feat: add search term highlighting in search results ([#26](https://github.com/ohmlaws/secondyear/pull/26)) ([e41b569](https://github.com/ohmlaws/secondyear/commit/e41b569f0a837c79999ef29632326554828dccf0))
 
 ## 2026-07-20
 - Fix question answer ([#25](https://github.com/ohmlaws/secondyear/pull/25)) ([65de0ac](https://github.com/ohmlaws/secondyear/commit/65de0ac7455d6fe2631c45ebc0a593cade7e77f6))
