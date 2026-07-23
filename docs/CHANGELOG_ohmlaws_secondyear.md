@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/secondyear](https://github.com/ohmlaws/secondyear).
 
-Last Updated: 2026-07-22
+Last Updated: 2026-07-23
+
+## 2026-07-23
+- fix: search highlight nav css and add print mode css ([#27](https://github.com/ohmlaws/secondyear/pull/27)) ([0bab294](https://github.com/ohmlaws/secondyear/commit/0bab294bd0eecf90b8764b53c60e6c4614b4565d))
 
 ## 2026-07-22
 - fix css ([9771e01](https://github.com/ohmlaws/secondyear/commit/9771e012680c11dfe29d837a98cadb0fc839f82a))
