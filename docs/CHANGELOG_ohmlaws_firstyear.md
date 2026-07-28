@@ -2,7 +2,10 @@
 
 Updates for [ohmlaws/firstyear](https://github.com/ohmlaws/firstyear).
 
-Last Updated: 2026-07-22
+Last Updated: 2026-07-28
+
+## 2026-07-28
+- implement print styles ([#19](https://github.com/ohmlaws/firstyear/pull/19)) ([00ff39a](https://github.com/ohmlaws/firstyear/commit/00ff39a56b2b592a1b8c687392290721db7069e0))
 
 ## 2026-07-22
 - fix: search functionality UI ([#18](https://github.com/ohmlaws/firstyear/pull/18)) ([80ca6c3](https://github.com/ohmlaws/firstyear/commit/80ca6c362eb584f4f05d39164cd7c40a6375136f))
