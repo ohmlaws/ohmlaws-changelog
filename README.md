@@ -8,6 +8,6 @@ This repository serves as the "Central Changelog writer" for "OhmLaws" project u
 
 * ohmlaws.github.io **[CHANGELOG--ohmlaws.github.io](docs/CHANGELOG_ohmlaws_ohmlaws.github.io.md)**
   
-* Firstyear **[CHANGELOG--firstyear](docs/CHANGELOG_ohmlaws_firstyear.md)**
+* ITI Firstyear **[CHANGELOG-- iti firstyear](docs/CHANGELOG_ohmlaws_iti-firstyear.md)**
  
-* Secondyear **[CHANGELOG--secondyear](docs/CHANGELOG_ohmlaws_secondyear.md)**
+* ITI Secondyear **[CHANGELOG-- iti secondyear](docs/CHANGELOG_ohmlaws_iti-secondyear.md)**
