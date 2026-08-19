@@ -1,0 +1,120 @@
+# Changelog: ohmlaws/iti-secondyear
+
+Updates for [ohmlaws/iti-secondyear](https://github.com/ohmlaws/iti-secondyear).
+
+Last Updated: 2026-08-19
+
+## 2026-08-19
+- chore: update url ([#29](https://github.com/ohmlaws/iti-secondyear/pull/29)) ([5ab5f1e](https://github.com/ohmlaws/iti-secondyear/commit/5ab5f1efedb6e6177f8a4dac7a642aa2caa38933))
+
+## 2026-07-24
+- Fix print mode ([#28](https://github.com/ohmlaws/iti-secondyear/pull/28)) ([7196f0d](https://github.com/ohmlaws/iti-secondyear/commit/7196f0d04042728a3aaeb89202eb99f9694375d9))
+
+## 2026-07-23
+- fix: search highlight nav css and add print mode css ([#27](https://github.com/ohmlaws/iti-secondyear/pull/27)) ([0bab294](https://github.com/ohmlaws/iti-secondyear/commit/0bab294bd0eecf90b8764b53c60e6c4614b4565d))
+
+## 2026-07-22
+- fix css ([9771e01](https://github.com/ohmlaws/iti-secondyear/commit/9771e012680c11dfe29d837a98cadb0fc839f82a))
+- feat: add search term highlighting in search results ([#26](https://github.com/ohmlaws/iti-secondyear/pull/26)) ([e41b569](https://github.com/ohmlaws/iti-secondyear/commit/e41b569f0a837c79999ef29632326554828dccf0))
+
+## 2026-07-20
+- Fix question answer ([#25](https://github.com/ohmlaws/iti-secondyear/pull/25)) ([65de0ac](https://github.com/ohmlaws/iti-secondyear/commit/65de0ac7455d6fe2631c45ebc0a593cade7e77f6))
+
+## 2026-07-10
+- hide date in pages by catagory section ([a0add8a](https://github.com/ohmlaws/iti-secondyear/commit/a0add8aa243aed80b0bf73ed3069d29a5796d6a8))
+- Hide dates and calendar icons in post metadata ([8cd5d00](https://github.com/ohmlaws/iti-secondyear/commit/8cd5d002bf509c3e914efafe7c77a8fb50e096f4))
+
+## 2026-07-08
+- fix theme toggle button ([#24](https://github.com/ohmlaws/iti-secondyear/pull/24)) ([303fd13](https://github.com/ohmlaws/iti-secondyear/commit/303fd13f56d86a1ce101e5ec6a1bdc98bfcf38f3))
+
+## 2026-06-24
+- Add image link to engg.md post ([97b9a90](https://github.com/ohmlaws/iti-secondyear/commit/97b9a90b281b5714b5e993baa41181c937926840))
+- Remove image URL in engg.md ([85fe507](https://github.com/ohmlaws/iti-secondyear/commit/85fe50749ecb7f118145f94cde8e2f4ac391360c))
+- Add engineering drawing page ([#22](https://github.com/ohmlaws/iti-secondyear/pull/22)) ([6e6bc80](https://github.com/ohmlaws/iti-secondyear/commit/6e6bc80503989b140d6a74d2091576e321450501))
+
+## 2026-06-21
+- Modify site.webmanifest ([d345d37](https://github.com/ohmlaws/iti-secondyear/commit/d345d3795d0001a3aba542e7dc1273036c66ee62))
+- fix: re-upload suggestion pdf with some changes ([7c7dbd4](https://github.com/ohmlaws/iti-secondyear/commit/7c7dbd4d59459de3bed6d3ec1e0094070f251d9d))
+
+## 2026-06-17
+- Add Second Year Suggestions post ([#21](https://github.com/ohmlaws/iti-secondyear/pull/21)) ([2faee22](https://github.com/ohmlaws/iti-secondyear/commit/2faee22fadda4ea6393f2482ede78705ec397a89))
+
+## 2026-05-22
+- Fix quiz options for gig economy question ([#20](https://github.com/ohmlaws/iti-secondyear/pull/20)) ([cdcfff7](https://github.com/ohmlaws/iti-secondyear/commit/cdcfff7671e94d445de06d9011e6fd7c9e562978))
+
+## 2026-05-19
+- Rename 2025-05-15-synchronous-motor.html to 2025-05-15-synchronous-motor-and-mg-set.md ([2d4a1bf](https://github.com/ohmlaws/iti-secondyear/commit/2d4a1bf551ab852332ad9f0e9c3f470379f41c3d))
+- Update and rename 2025-05-15-synchronous-motor.md to 2025-05-15-synchronous-motor.html ([8311fc4](https://github.com/ohmlaws/iti-secondyear/commit/8311fc4fcdbce0c1043d90ca5b13bebc6326ec64))
+
+## 2026-03-12
+- Fix answers correct option ([#17](https://github.com/ohmlaws/iti-secondyear/pull/17)) ([c91dfe7](https://github.com/ohmlaws/iti-secondyear/commit/c91dfe77e492b9cb0a3eaaa135ece505dbb3c313))
+
+## 2026-02-24
+- Fix: Mathjax formatting  ([#16](https://github.com/ohmlaws/iti-secondyear/pull/16)) ([68714e2](https://github.com/ohmlaws/iti-secondyear/commit/68714e28b5953535f1d93afd1f380bba2c208033))
+
+## 2026-02-15
+- Fix: space of various pages ([#14](https://github.com/ohmlaws/iti-secondyear/pull/14)) ([f0b0f43](https://github.com/ohmlaws/iti-secondyear/commit/f0b0f437793113c1ead6dfce9f93c09480ed0604))
+
+## 2026-01-23
+- Fix: Calculation format  ([#13](https://github.com/ohmlaws/iti-secondyear/pull/13)) ([31f843f](https://github.com/ohmlaws/iti-secondyear/commit/31f843fe6383ddaa86e8f752bca076cc74d88b1d))
+
+## 2026-01-22
+- Fix: Question and Calculation format ([#12](https://github.com/ohmlaws/iti-secondyear/pull/12)) ([a4f4e87](https://github.com/ohmlaws/iti-secondyear/commit/a4f4e877ccd84f4b31e8bc183ced52c39975c8cd))
+- Revise content correction issue template ([6be59fa](https://github.com/ohmlaws/iti-secondyear/commit/6be59fac414cbbdb56b80674ccfeba5c3b519724))
+
+## 2026-01-21
+- Add Changelog section to README ([b017f5d](https://github.com/ohmlaws/iti-secondyear/commit/b017f5d01c24521b4bdc5229e452cd1cdd839b2c))
+- Add workflow to signal changelog updates ([886e6ff](https://github.com/ohmlaws/iti-secondyear/commit/886e6fff7add45257ee3366247d2e04266927ec1))
+
+## 2026-01-07
+- Revise site description and update avatar links ([#10](https://github.com/ohmlaws/iti-secondyear/pull/10)) ([268e50a](https://github.com/ohmlaws/iti-secondyear/commit/268e50ac5214717adc8cc5dc7bfcb15bfc94c80c))
+
+## 2026-01-01
+- Z-index removed from video-card,  video-card:hover , video-facade::after ([f54ef03](https://github.com/ohmlaws/iti-secondyear/commit/f54ef036f78f8234787eecf52c915c815d773a5c))
+- Yt Embed video replaced with thumbnail and link ([46d9bed](https://github.com/ohmlaws/iti-secondyear/commit/46d9bed1c079ea6e1cd4a52c224e33980cbde731))
+- Fiiixed ([8e3bc3d](https://github.com/ohmlaws/iti-secondyear/commit/8e3bc3df12b7ee99eca2e45122c33ac3d7a2fd42))
+- May be fixed ([730819b](https://github.com/ohmlaws/iti-secondyear/commit/730819bce17a829bbce39877954b4dcd3917a39f))
+
+## 2025-12-31
+- Video embed fixed with images ([69910c6](https://github.com/ohmlaws/iti-secondyear/commit/69910c6dff687d03d8913b2170cace5204378629))
+- Update 2025-12-27-videos.html ([ecfc750](https://github.com/ohmlaws/iti-secondyear/commit/ecfc7507c0329a69b2e4383ce6aa2a63d2374ced))
+
+## 2025-12-29
+- Update 2025-12-27-videos.html ([8df4267](https://github.com/ohmlaws/iti-secondyear/commit/8df4267d9ae133b0054bd77e0a110c13d9db1517))
+- Add files via upload ([7535966](https://github.com/ohmlaws/iti-secondyear/commit/7535966c02de71b516ebb384eb0f451775291d47))
+- Update and rename videos.md to 2025-12-27-videos.html ([4f88fec](https://github.com/ohmlaws/iti-secondyear/commit/4f88fec2a8e6c4140f330b19151364fed07b7c86))
+- Rename videos.html to videos.md ([69f5ce6](https://github.com/ohmlaws/iti-secondyear/commit/69f5ce64996ec71d45927677d14a59695d309569))
+- Update videos.html ([eb8d8c1](https://github.com/ohmlaws/iti-secondyear/commit/eb8d8c1af1491964e4f813d3c18b659da4b81ccc))
+- Create videos.html ([94dd919](https://github.com/ohmlaws/iti-secondyear/commit/94dd919b328c567069b38efd15dd048774a2b437))
+
+## 2025-12-27
+- Enhancement ([#9](https://github.com/ohmlaws/iti-secondyear/pull/9)) ([0337ef2](https://github.com/ohmlaws/iti-secondyear/commit/0337ef2c988d2bac2b2960ec915bcf8bb56275ee))
+
+## 2025-12-19
+- Update issue templates ([6754d28](https://github.com/ohmlaws/iti-secondyear/commit/6754d280dcae9e186e547693c49d1be38049d82d))
+
+## 2025-12-12
+- Revise Q61 calculation for DC motor winding types ([3cd8cd0](https://github.com/ohmlaws/iti-secondyear/commit/3cd8cd005b933f407ccb498862170abbfdfb518f))
+
+## 2025-12-11
+- Add Calculation, add feedback section  ([#8](https://github.com/ohmlaws/iti-secondyear/pull/8)) ([d01bf5b](https://github.com/ohmlaws/iti-secondyear/commit/d01bf5bb9dc3f3e528d6cc138134ba14cfc3f194))
+
+## 2025-12-07
+- Theory pages, post images, banner images added ([#7](https://github.com/ohmlaws/iti-secondyear/pull/7)) ([77796f8](https://github.com/ohmlaws/iti-secondyear/commit/77796f8334a8bc3d7132ef0c671e2f6416177908))
+
+## 2025-11-15
+- Update _config.yml ([803317f](https://github.com/ohmlaws/iti-secondyear/commit/803317fd13675fda09f9cbc185bcbec46ddf4f54))
+- Fix 2: Fixes and Improvements  ([#6](https://github.com/ohmlaws/iti-secondyear/pull/6)) ([bf9b5f2](https://github.com/ohmlaws/iti-secondyear/commit/bf9b5f2f5ec7f942db6fc6e1fa9095a2fa06b435))
+
+## 2025-11-01
+- Fix- wcs posts category changed wcs to workshop calculation  ([#5](https://github.com/ohmlaws/iti-secondyear/pull/5)) ([7597fa3](https://github.com/ohmlaws/iti-secondyear/commit/7597fa3b2570565feca001d873297cd2796cb977))
+
+## 2025-10-29
+- h3 id added in some questions,  and some changes ([#4](https://github.com/ohmlaws/iti-secondyear/pull/4)) ([ac82947](https://github.com/ohmlaws/iti-secondyear/commit/ac82947021ae5fe587cbd0fc233a166caa8dc73c))
+- Re structure  ([#3](https://github.com/ohmlaws/iti-secondyear/pull/3)) ([c3a20e1](https://github.com/ohmlaws/iti-secondyear/commit/c3a20e1429574605ea809463ffd65f4e62cc8cbc))
+
+## 2025-10-27
+- Re upload with correct img path ([#2](https://github.com/ohmlaws/iti-secondyear/pull/2)) ([113d43a](https://github.com/ohmlaws/iti-secondyear/commit/113d43a24bcfa745625a859200ee93d4d04ced62))
+- Re upload whole site  ([#1](https://github.com/ohmlaws/iti-secondyear/pull/1)) ([8cc0441](https://github.com/ohmlaws/iti-secondyear/commit/8cc04414708bc93a564c4bc8777ed415869fb468))
+- Create 2025-05-17-how-to-use.md ([fc2d82d](https://github.com/ohmlaws/iti-secondyear/commit/fc2d82ddc7f65c79cb78cd104a5f18dc4e5b99b9))
+- Update _config.yml ([029bf50](https://github.com/ohmlaws/iti-secondyear/commit/029bf506426b773d91d34f8946fd35b81b51e8aa))
